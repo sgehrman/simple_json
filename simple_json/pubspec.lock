@@ -293,7 +293,7 @@ packages:
     description:
       path: simple_json_mapper
       ref: HEAD
-      resolved-ref: "7a4432a7bca5c1a009d723e006971751858e4a78"
+      resolved-ref: "8e232b28846fdd3071ff29a1ee66bb723e73c24c"
       url: "git://github.com/sgehrman/simple_json"
     source: git
     version: "1.1.3"
