@@ -291,9 +291,11 @@ packages:
   simple_json_mapper:
     dependency: "direct main"
     description:
-      path: "../simple_json_mapper"
-      relative: true
-    source: path
+      path: simple_json_mapper
+      ref: HEAD
+      resolved-ref: "7a4432a7bca5c1a009d723e006971751858e4a78"
+      url: "git://github.com/sgehrman/simple_json"
+    source: git
     version: "1.1.3"
   source_gen:
     dependency: "direct main"
