@@ -10,14 +10,14 @@ environment:
 dependencies:
   build_resolvers: ^2.0.0
   analyzer: ^1.1.0
-  build: ^2.0.1
+  build: ^2.0.0
   source_gen:
     git:
       url: git://github.com/dart-lang/source_gen.git
       path: source_gen
 
   path: ^1.8.0
-  glob: ^2.0.1
+  glob: ^2.0.0
 
   simple_json_mapper:
     git:

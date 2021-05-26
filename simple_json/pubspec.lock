@@ -300,7 +300,7 @@ packages:
     description:
       path: simple_json_mapper
       ref: HEAD
-      resolved-ref: "60b354908ba88e063710da15b3cfef4e5547db3f"
+      resolved-ref: "431812df767c98488fbbcc85bf0f069834c9e1a5"
       url: "git://github.com/sgehrman/simple_json"
     source: git
     version: "1.1.3"
