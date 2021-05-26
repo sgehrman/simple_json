@@ -300,16 +300,18 @@ packages:
     description:
       path: simple_json_mapper
       ref: HEAD
-      resolved-ref: "520d4a5fde1413e0bb39db4c8dbd284d6bb8174e"
+      resolved-ref: "60b354908ba88e063710da15b3cfef4e5547db3f"
       url: "git://github.com/sgehrman/simple_json"
     source: git
     version: "1.1.3"
   source_gen:
     dependency: "direct main"
     description:
-      name: source_gen
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: source_gen
+      ref: HEAD
+      resolved-ref: c171357c9ab9fe222fc0c60023e184edfd170a47
+      url: "git://github.com/dart-lang/source_gen.git"
+    source: git
     version: "1.0.1"
   source_span:
     dependency: transitive
