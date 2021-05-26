@@ -5,7 +5,7 @@ homepage: https://github.com/FlutterDevTools/simple_json/tree/master/simple_json
 publish_to: none
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.10.5 <3.0.0"
 
 dependencies:
   build_resolvers: ^2.0.2
@@ -23,4 +23,4 @@ dependencies:
       path: simple_json_mapper
 
 dev_dependencies:
-  build_runner: ^1.12.1
+  build_runner: ^2.0.4
