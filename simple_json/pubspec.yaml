@@ -1,6 +1,6 @@
 name: simple_json
 description: Simple way to dynamically convert from and to JSON using build-time generators given a type.
-version: 1.2.1
+version: 1.2.2
 homepage: https://github.com/FlutterDevTools/simple_json/tree/master/simple_json
 publish_to: none
 
@@ -9,12 +9,9 @@ environment:
 
 dependencies:
   build_resolvers: ^2.0.0
-  analyzer: ^1.1.0
+  analyzer: ^1.7.0
   build: ^2.0.0
-  source_gen:
-    git:
-      url: git://github.com/dart-lang/source_gen.git
-      path: source_gen
+  source_gen: ^1.0.1
 
   path: ^1.8.0
   glob: ^2.0.0
